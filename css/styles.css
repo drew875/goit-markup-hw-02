@@ -19,6 +19,10 @@ body {
     gap: 0px;
 }
 
+span {
+    color: #2e2f42;
+}
+
 .menunav {
     width: 261pxpx;
     height: 24pxpx;
@@ -28,8 +32,9 @@ body {
     opacity: 0px;
 }
 
-.contm {
-    width: 153px;
+.contacts {
+    letter-spacing: 0.02em;
+    color: #434455;
     height: 24px;
     margin-top: 24px;
     margin-left: 940px;
@@ -37,21 +42,15 @@ body {
     opacity: 0px;
 }
 
-.contt {
-    width: 151px;
-    height: 24px;
-    margin-top: 24px;
-    margin-left: 1133px;
-    gap: 0px;
-    opacity: 0px;
+.contacts:focus {
+    color: #404bbf;
 }
 
 a {
     width: 153px;
     height: 24px;
-
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 24px;
 }
 
