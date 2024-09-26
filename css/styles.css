@@ -4,13 +4,40 @@ body {
     color: #434455;
 }
 
-header {
-    background-color: chartreuse;
+.logo {
+    width: 115pxpx;
+    height: 24pxpx;
+    margin-top: 24px;
+    margin-left: 156px;
+    gap: 0px;
 }
 
+.menunav {
+    width: 261pxpx;
+    height: 24pxpx;
+    margin-top: 24px;
+    margin-left: 347px;
+    gap: 40px;
+    opacity: 0px;
+}
 
+.contm {
+    width: 153px;
+    height: 24px;
+    margin-top: 24px;
+    margin-left: 940px;
+    gap: 0px;
+    opacity: 0px;
+}
 
-
+.contt {
+    width: 151px;
+    height: 24px;
+    margin-top: 24px;
+    margin-left: 1133px;
+    gap: 0px;
+    opacity: 0px;
+}
 
 a {
     width: 153px;
@@ -45,29 +72,18 @@ h2 {
 
 .section1 {
 
-    background-color: #2E2F42;
+    background-color: rgba(46, 47, 66, 1);
 }
 
-.section2 {
 
-    background-color: brown;
-}
 
-.section3 {
-
-    background: #F4F4FD;
-
-}
 
 .section4 {
 
     background-color: rgb(30, 88, 69);
 }
 
-main {}
 
-
-h1 {}
 
 button {
     border-radius: 4px;
@@ -85,5 +101,5 @@ button:hover {
 }
 
 footer {
-    background-color: #2E2F42;
+    background-color: rgba(46, 47, 66, 1);
 }
