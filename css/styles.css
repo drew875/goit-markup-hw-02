@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: white;
     color: #434455;
 }
@@ -7,6 +7,10 @@ body {
 header {
     height: 72px;
     width: 1440px;
+}
+
+.logo {
+    background-color: red;
 }
 
 .cont {
