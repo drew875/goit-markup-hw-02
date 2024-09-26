@@ -1,7 +1,7 @@
 body {
-    font-family: 'Roboto', 'Georgia' sans-serif;
+    font-family: "Roboto" sans-serif;
     background-color: white;
-    color: 2E2F42;
+    color: #434455;
 }
 
 header {
@@ -17,7 +17,14 @@ header {
     text-align: left;
 }
 
-a {}
+a {
+    width: 153px;
+    height: 24px;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
 
 a:hover {
     color: rgba(64, 75, 191, 1);
@@ -28,6 +35,16 @@ h1 {
     font-size: 56px;
     font-weight: 700;
     line-height: 60px;
+    text-align: center;
+}
+
+h2 {
+
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 
@@ -44,12 +61,15 @@ section {
 }
 
 .section3 {
+    width: 1440px;
+    height: 732px;
+    margin-top: 1016px;
     display: flex;
-    background-color: #404BBF;
+    background: #F4F4FD;
 
 }
 
-
+.section4 {}
 
 main {}
 
@@ -69,4 +89,12 @@ button:hover {
     border-radius: 8px;
     background: var(--OCEAN, #404BBF);
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.05) inset;
+}
+
+footer {
+    width: 1440px;
+    height: 312px;
+    background-color: #2E2F42;
+    margin-top: 2988px;
+
 }
