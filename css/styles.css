@@ -5,21 +5,12 @@ body {
 }
 
 header {
-    height: 72px;
-    width: 1440px;
+    background-color: chartreuse;
 }
 
-.logo {
-    background-color: red;
-}
 
-.cont {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    text-align: left;
-}
+
+
 
 a {
     width: 153px;
@@ -52,28 +43,26 @@ h2 {
     text-align: center;
 }
 
-section {
-    text-align: center;
-    width: 1440px;
-    height: 600px;
+.section1 {
+
     background-color: #2E2F42;
 }
 
-.section1 {
-    width: 1128px;
-    height: 104px;
+.section2 {
+
+    background-color: brown;
 }
 
 .section3 {
-    width: 1440px;
-    height: 732px;
-    margin-top: 1016px;
-    display: flex;
+
     background: #F4F4FD;
 
 }
 
-.section4 {}
+.section4 {
+
+    background-color: aquamarine;
+}
 
 main {}
 
@@ -96,9 +85,5 @@ button:hover {
 }
 
 footer {
-    width: 1440px;
-    height: 312px;
     background-color: #2E2F42;
-    margin-top: 2988px;
-
 }
