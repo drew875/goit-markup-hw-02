@@ -23,18 +23,13 @@ span {
     color: #2e2f42;
 }
 
-.menunav {
-    width: 261pxpx;
-    height: 24pxpx;
-    margin-top: 24px;
-    margin-left: 347px;
-    gap: 40px;
-    opacity: 0px;
+address {
+    font-style: normal;
 }
 
 .contacts {
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
     height: 24px;
     margin-top: 24px;
     margin-left: 940px;
@@ -56,6 +51,15 @@ a {
 
 a:hover {
     color: rgba(64, 75, 191, 1);
+}
+
+.adr {
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.adr:focus {
+    color: #404bbf;
 }
 
 h1 {
