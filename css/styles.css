@@ -13,10 +13,7 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
     width: 115pxpx;
-    height: 24pxpx;
-    margin-top: 24px;
-    margin-left: 156px;
-    gap: 0px;
+
 }
 
 span {
@@ -37,8 +34,7 @@ address {
     height: 24px;
     margin-top: 24px;
     margin-left: 940px;
-    gap: 0px;
-    opacity: 0px;
+
 }
 
 .contacts:focus {
@@ -217,7 +213,6 @@ button {
     border-radius: 4px;
     background: var(--IRIS, #4D5AE5);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    padding: 16px 32px;
     color: white;
     align-content: center;
     cursor: pointer
@@ -228,9 +223,9 @@ button:focus {
 }
 
 button:hover {
-    border-radius: 8px;
+
     background: var(--OCEAN, #404BBF);
-    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.05) inset;
+
 }
 
 footer {
