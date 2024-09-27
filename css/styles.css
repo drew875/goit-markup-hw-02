@@ -140,6 +140,18 @@ h1 {
 
 }
 
+.sp-col {
+    color: #f4f4fd;
+
+}
+
+.footer-text {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+
+}
+
 .portfolio-title {
     font-size: 36px;
     line-height: 1.11;
