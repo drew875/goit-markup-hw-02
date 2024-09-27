@@ -152,6 +152,27 @@ h1 {
 
 }
 
+.team-members {
+
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-job {
+
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.product {}
+
+line-height: 1.5;
+letter-spacing: 0.02em;
+
 .portfolio-title {
     font-size: 36px;
     line-height: 1.11;
