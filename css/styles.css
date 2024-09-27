@@ -67,7 +67,7 @@ a:hover {
     line-height: 1.07;
 }
 
-.name-section-two {
+.section-two-view {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -79,8 +79,7 @@ a:hover {
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
-
-
+    letter-spacing: 0.02em;
 }
 
 h1 {
