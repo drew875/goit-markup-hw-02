@@ -75,6 +75,14 @@ a:hover {
     color: #2e2f42;
 }
 
+.section-two-view-text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+
+
+}
+
 h1 {
     line-height: 1.07;
     color: white;
@@ -85,15 +93,7 @@ h1 {
     letter-spacing: 0.02em
 }
 
-h2 {
 
-    font-family: Roboto;
-    font-size: 36px;
-    font-weight: 700;
-    line-height: 40px;
-    letter-spacing: 0.02em;
-    text-align: center;
-}
 
 .section-one {
 
