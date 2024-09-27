@@ -27,6 +27,10 @@ address {
     font-style: normal;
 }
 
+.bground {
+    background-color: #FFFFFF;
+}
+
 .contacts {
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -168,10 +172,23 @@ h1 {
     letter-spacing: 0.02em;
 }
 
-.product {}
+.product {
 
-line-height: 1.5;
-letter-spacing: 0.02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.banking-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: 2e2f42;
+}
+
+
+
 
 .portfolio-title {
     font-size: 36px;
